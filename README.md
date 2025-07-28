@@ -92,14 +92,6 @@ We would like to thank the following individuals and organizations for their sup
   [Visit Website](https://portal.smu.edu.cn/swyxgcxy/info/1016/1115.htm)
 
 
-## 📬 Contact
-For any questions or inquiries, please contact:
-
-- **Chaobin Hu**  
-  Email: cbinhu95@gmail.com  
-  GitHub: [CbinHu](https://github.com/CbinHu)
-
----
 
 ## 🌟 Support Us
 If you find this project useful, please give us a star ⭐ to support our work and help us grow the community
@@ -140,9 +132,15 @@ If our summary is helpful to you, please quote the following papers
 
 ---
 
+## 📬 Contact
+For any questions or inquiries, please contact:
 
+- **Chaobin Hu**  
+  Email: cbinhu95@gmail.com  
+  GitHub: [CbinHu](https://github.com/CbinHu)
 
-<<<<<<< HEAD
+---
+
 
 > Last generated: 2025-07-28 15:53 UTC
 =======
