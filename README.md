@@ -1,39 +1,41 @@
-# 📚 PAID: Photoacoustic Imaging Dataset
+# 📝 PAID: Photoacoustic Imaging Dataset
 
-**A Comprehensive Repository for Photoacoustic Imaging Datasets**
+📚 This repository is a continuously updated, comprehensive collection of all publicly available photoacoustic imaging datasets.
 
 ---
 
 
-## 🌟 Project Overview
+## 🔍 Project Overview
 
-### 🎯 Introduction
+### 🌟 Introduction
 
-Photoacoustic Imaging (PAI) is a cutting-edge, non-invasive imaging modality that merges the high contrast of optical imaging with the high spatial resolution of ultrasound imaging. It has become a cornerstone in biomedical research, clinical diagnostics, and preclinical studies, offering detailed, radiation-free imaging of biological tissues and structures.
+![Photoacoustic Imaging](images/图1.png)
 
-### 📚 Objectives
+Photoacoustic imaging (PAI) is a rapidly evolving, non-invasive imaging modality that combines the high contrast of optical imaging with the high spatial resolution of ultrasound imaging. It has garnered significant interest across various fields, including biomedical research, clinical diagnostics, and preclinical studies, due to its ability to provide detailed images of biological tissues and structures without the use of ionizing radiation.
 
-The **PAID (Photoacoustic Imaging Dataset)** repository is designed to be a comprehensive, up-to-date, and centralized resource for researchers, clinicians, and students interested in PAI. Our goals are:
+### 🎯 Objectives
 
-- **Curate and Organize**: Aggregate and systematically categorize all publicly available datasets related to photoacoustic imaging.
-- **Support Research**: Provide a diverse set of datasets to facilitate algorithm development, validation, and benchmarking.
-- **Promote Collaboration**: Encourage collaboration within the PAI community by making data accessible and easy to share.
-- **Educational Resource**: Serve as an educational tool for students and newcomers to the field, offering a variety of datasets for learning and experimentation.
+The primary goal of the **PAID (Photoacoustic Imaging Dataset)** repository is to serve as a centralized, up-to-date, and comprehensive resource for researchers, clinicians, and students interested in PAI. This repository aims to:
 
-### 📊 Dataset Categories
+- **Curate and Organize**: Collect and systematically organize all publicly available datasets related to photoacoustic imaging, ensuring that users have access to a wide range of data sources in one place.
+- **Support Research**: Facilitate the advancement of research in PAI by providing a diverse set of datasets that can be used for algorithm development, validation, and benchmarking.
+- **Promote Collaboration**: Encourage collaboration among the PAI community by making data accessible and easy to share, thereby fostering innovation and the development of new applications.
+- **Educational Resource**: Serve as an educational tool for students and newcomers to the field, offering a variety of datasets to learn and experiment with.
 
-Our repository includes datasets across various PAI techniques and applications, such as:
+### 📚 Dataset Categories
 
-- **Photoacoustic Microscopy (PAM)**: High-resolution imaging for studying cellular and sub-cellular processes.
-- **Photoacoustic Computed Tomography (PACT)**: Whole-body or large-scale imaging for visualizing organs and tissues in vivo.
-- **Multispectral Photoacoustic Imaging**: Datasets capturing multiple wavelengths to provide detailed information about tissue types and properties.
+The datasets included in this repository cover a broad spectrum of PAI techniques and applications, such as:
+
+- **Photoacoustic Microscopy (PAM)**: High-resolution imaging of small-scale biological structures, often used for studying cellular and sub-cellular processes.
+- **Photoacoustic Computed Tomography (PACT)**: Whole-body or large-scale imaging, suitable for visualizing organs and tissues in vivo.
+- **Multispectral Photoacoustic Imaging**: Datasets that capture multiple wavelengths of light to provide detailed information about different tissue types and their properties.
 
 
 ---
 
 ## 📢 Latest Updates
 
-- **2025-07-20**: 🎉 Launched the PAID repository!
+- **2025-07-20**: 🎉 Create our GitHub project!
 
 ---
 
@@ -46,31 +48,28 @@ Our repository includes datasets across various PAI techniques and applications,
 | **Mouse MSOT - Twente Photoacoustic Mammoscope 2** | [Domain Transform Network for Photoacoustic Tomography from Limited-view and Sparsely Sampled Data](http://www.radiomics.net.cn/post/132) | 2022 | Photoacoustic Imaging | Mouse Brain Imaging, Functional Imaging | 128x128 images, enhanced to 256x256 with denoising | [Download](http://www.radiomics.net.cn/post/132) |
 | **Human Forearm Artery and Vein PACT** | [Machine learning enabled multiple illumination quantitative optoacoustic oximetry imaging in humans](https://zenodo.org/records/6466446) | 2022.02.04 | Photoacoustic Imaging | Human Forearm Imaging, Oxygenation Mapping | Raw optoacoustic signals, reconstructed images | [Download](https://zenodo.org/records/6466446) |
 | **3D-PACT** | [High-speed three-dimensional photoacoustic computed tomography for preclinical research and clinical translation](https://figshare.com/articles/dataset/3D-PACT_Data_and_Codes/13114544) | 2021.02.09 | Photoacoustic Imaging | 3D Vascular Imaging, Functional Imaging | Supporting source data and codes | [Download](https://figshare.com/articles/dataset/3D-PACT_Data_and_Codes/13114544) |
-
 ---
 
 ## 👥💻 Contributors
-
-- **SMU Intelligent Optical Tomography Lab**  
+- 🏫 **SMU Intelligent Optical Tomography Lab**  
   Southern Medical University  
-  [🔗 Website](https://smu-iotlab.github.io/)
+  ✉️ [https://smu-iotlab.github.io/](https://smu-iotlab.github.io/) 
 
-- **Chaobin Hu**  
+- 🧑‍🎓 **Chaobin Hu**  
   Southern Medical University  
-  [✉️ Email](mailto:cbinhu95@gmail.com)
+  ✉️ cbinhu95@gmail.com
 
-- **Yutian Zhong**  
+- 🧑‍🎓 **Yutian Zhong**  
   Shanghai Jiao Tong University  
-  [✉️ Email](mailto:920460325@qq.com)
+  ✉️ 920460325@qq.com
 
-- **Li Qi**  
-  Southern Medical University  
-  [✉️ Email](mailto:qili@smu.edu.cn)
+- 👨‍🏫 **Li Qi**  
+  Southern Medical University
+  ✉️ qili@smu.edu.cn
 
 ---
 
 ## 📊 GitHub Stats
-
 ![Stars](https://img.shields.io/github/stars/CbinHu/PAID-Photoacoustic-imaging-dataset?style=social)
 ![Forks](https://img.shields.io/github/forks/CbinHu/PAID-Photoacoustic-imaging-dataset?style=social)
 ![License](https://img.shields.io/github/license/CbinHu/PAID-Photoacoustic-imaging-dataset)
@@ -78,4 +77,4 @@ Our repository includes datasets across various PAI techniques and applications,
 
 ---
 
-> Last generated: 2025-07-28 13:30 UTC
+> Last generated: 2025-07-28 13:45 UTC
