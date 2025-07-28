@@ -4,24 +4,6 @@
 
 ---
 
-## 👥💻 Contributors
-- 🧑‍🔬 **SMU Intelligent Optical Tomography Lab**  
-  Southern Medical University  
-  📧 https://smu-iotlab.github.io/
-
-- 🧑‍🔬 **Chaobin Hu**  
-  Southern Medical University  
-  📧 cbinhu95@gmail.com
-
-- 🧑‍🔬 **Yutian Zhong**  
-  Shanghai Jiao Tong University  
-  📧 hanxv8826@gmail.com
-
-- 👨‍🏫 **Li Qi**  
-  Southern Medical University
-  📧 qili@smu.edu.cn
-
----
 
 ## 📊 GitHub Stats
 ![Stars](https://img.shields.io/github/stars/CbinHu/PAID-Photoacoustic-imaging-dataset?style=social)
@@ -64,6 +46,25 @@ With the continuous advancement of research on Medical Vision-Language Models (M
 | **MedTVT-QA** | [MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis](https://arxiv.org/pdf/2506.18512) | 2025.06.23 | Text + Time Series (ECG) + Image (CXR) + Tabular (Lab Test) | Multimodal Medical Reasoning, Multi-disease Diagnosis, Report Generation | 8,706 multimodal data combinations used to generate QA pairs | [GitHub](https://github.com/keke-nice/MedTVT-R1) |
 
 ---
+---
+
+## 👥💻 Contributors
+- 🏫 **SMU Intelligent Optical Tomography Lab**  
+  Southern Medical University  
+  ✉️ https://smu-iotlab.github.io/
+
+- 🧑‍🎓 **Chaobin Hu**  
+  Southern Medical University  
+  ✉️ cbinhu95@gmail.com
+
+- 👩‍🎓  **Yutian Zhong**  
+  Shanghai Jiao Tong University  
+  ✉️ 920460325@qq.com
+
+- 👨‍🏫 **Li Qi**  
+  Southern Medical University
+  ✉️ qili@smu.edu.cn
+
 ---
 
 ## 📊 GitHub Stats
