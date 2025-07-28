@@ -1,15 +1,18 @@
-# 🧪 Photoacoustic Dataset Bench
-    > Curated list of open-source photoacoustic imaging datasets.
+# 🧠 Med-VLM-Bench: A Curated Benchmark Repository for Medical Vision-Language Models
 
-    ![Stars](https://img.shields.io/github/stars/https://github.com/CbinHu/general_PAID?style=flat-square&color=blue)
-    ![Forks](https://img.shields.io/github/forks/https://github.com/CbinHu/general_PAID?style=flat-square&color=blue)
-    ![License](https://img.shields.io/github/license/https://github.com/CbinHu/general_PAID?style=flat-square&color=blue)  
-    ![Last Commit](https://img.shields.io/github/last-commit/https://github.com/CbinHu/general_PAID?style=flat-square&color=blue)
+        📚 A comprehensive summary of recent benchmarks for evaluating and training Medical Vision-Language Models (Med-VLMs)
 
-    ## 📊 Dataset Summary
-    | Dataset | Paper | Year / Venue | Modality | Tasks | Samples | Link |
-|---------|-------|--------------|----------|-------|---------|------|
+        ![Stars](https://img.shields.io/github/stars/yezanting/Med-VLM-Bench-Summary?style=flat-square&color=blue)
+        ![Forks](https://img.shields.io/github/forks/yezanting/Med-VLM-Bench-Summary?style=flat-square&color=blue)
+        ![License](https://img.shields.io/github/license/yezanting/Med-VLM-Bench-Summary?style=flat-square&color=blue)
+        ![Last Commit](https://img.shields.io/github/last-commit/yezanting/Med-VLM-Bench-Summary?style=flat-square&color=blue)
+
+        ## 📊 Dataset Summary
+        | Dataset | Paper | Year / Venue | Modality | Tasks | Samples | Link |
+|:--------|:------|:-------------|:---------|:------|:--------|:-----|
 | PAFUS-DB | PAFUS-DB: A Photoacoustic and Ultrasound Breast Dataset | 2024.07 | PAI + US | Reconstruction, Tumor Detection | 240 volumes | [Zenodo](https://zenodo.org/record/xxxx) |
 
-    ## 🤝 Contribution
-    Open an issue or PR to add new datasets!
+        ## 🤝 Contribution
+        To add a new dataset, please open an issue or submit a pull request with the YAML entry.
+
+        > Last updated: 2025-07-28
