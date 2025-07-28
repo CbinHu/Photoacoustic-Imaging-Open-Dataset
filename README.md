@@ -9,10 +9,8 @@
 
 ### 🌟 Introduction
 
-![Photoacoustic Imaging](images/图1.png)
-
 Photoacoustic imaging (PAI) is a rapidly evolving, non-invasive imaging modality that combines the high contrast of optical imaging with the high spatial resolution of ultrasound imaging. It has garnered significant interest across various fields, including biomedical research, clinical diagnostics, and preclinical studies, due to its ability to provide detailed images of biological tissues and structures without the use of ionizing radiation.
-
+![Photoacoustic Imaging](images/PA.png)
 ### 🎯 Objectives
 
 The primary goal of the **PAID (Photoacoustic Imaging Dataset)** repository is to serve as a centralized, up-to-date, and comprehensive resource for researchers, clinicians, and students interested in PAI. This repository aims to:
@@ -77,4 +75,4 @@ The datasets included in this repository cover a broad spectrum of PAI technique
 
 ---
 
-> Last generated: 2025-07-28 13:45 UTC
+> Last generated: 2025-07-28 13:47 UTC
