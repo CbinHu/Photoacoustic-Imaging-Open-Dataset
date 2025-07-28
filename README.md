@@ -43,7 +43,7 @@ The datasets included in this repository cover a broad spectrum of PAI technique
 
 ## 🧮 Dataset Summary Table
 
-| Dataset Name | Paper Title | Year / Venue | Data Modality | Task Type | Size | Download Link |
+| Dataset Name | Paper Title | Year  | Data Modality | Task Type | Size | Download Link |
 |--------------|-------------|--------------|---------------|-----------|------|---------------|
 | **Mouse PACT - Twente Photoacoustic Mammoscope 2** | [Deep learning optoacoustic tomography with sparse data](https://www.nature.com/articles/s42256-019-0095-3) | 2019.08.05 | Photoacoustic Imaging | Mouse Brain Imaging, Vascular Imaging | Phantom, Vascular Phantom, Mouse Data, Full and Sparse Reconstructions | [Download](https://figshare.com/articles/dataset/data-mouse/9250634) |
 | **3D-PACT** | [High-speed three-dimensional photoacoustic computed tomography for preclinical research and clinical translation](https://opg.optica.org/boe/fulltext.cfm?uri=boe-13-5-2655&id=471049) | 2021.02.09 | Photoacoustic Imaging | 3D Vascular Imaging, Functional Imaging | Supporting source data and codes | [Download](https://figshare.com/articles/dataset/3D-PACT_Data_and_Codes/13114544) |
