@@ -74,7 +74,7 @@ The datasets included in this repository cover a broad spectrum of PAI technique
 ## 📊 GitHub Stats
 ![Stars](https://img.shields.io/github/stars/CbinHu/Photoacoustic-Imaging-Open-Dataset?style=social)
 ![Forks](https://img.shields.io/github/forks/CbinHu/Photoacoustic-Imaging-Open-Dataset?style=social)
-![License](https://img.shields.io/github/license/CbinHu/Photoacoustic-Imaging-Open-Dataset.
+![License](https://img.shields.io/github/license/CbinHu/Photoacoustic-Imaging-Open-Dataset).
 ![Last Commit](https://img.shields.io/github/last-commit/CbinHu/Photoacoustic-Imaging-Open-Dataset)
 ![Open Issues](https://img.shields.io/github/issues/CbinHu/Photoacoustic-Imaging-Open-Dataset)
 ![Closed Issues](https://img.shields.io/github/issues-closed/CbinHu/Photoacoustic-Imaging-Open-Dataset)
