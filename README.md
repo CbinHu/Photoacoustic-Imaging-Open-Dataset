@@ -1,38 +1,33 @@
-# 🧠 Med-VLM-Bench: A Curated Benchmark Repository for Medical Vision-Language Models
+# ☁️ PAID:Photoacoustic imaging dataset
 
-📚 A comprehensive summary of recent benchmarks for evaluating and training Medical Vision-Language Models (Med-VLMs)
+📚 This repository is a continuously updated, comprehensive collection of all publicly available photoacoustic imaging datasets.
 
 ---
 
-## 👨‍💻 Contributors
-- 🧑‍🔬 **Zanting Ye**  
+## 👥💻 Contributors
+- 🧑‍🔬 **SMU Intelligent Optical Tomography Lab**  
   Southern Medical University  
-  📧 yzt2861252880@gmail.com
+  📧 https://smu-iotlab.github.io/
 
-- 🧑‍🔬 **Xu Han**  
+- 🧑‍🔬 **Chaobin Hu**  
+  Southern Medical University  
+  📧 cbinhu95@gmail.com
+
+- 🧑‍🔬 **Yutian Zhong**  
   Shanghai Jiao Tong University  
   📧 hanxv8826@gmail.com
 
-- 🧑‍🔬 **Xiaolong Niu**  
+- 👨‍🏫 **Li Qi**  
   Southern Medical University
-
-- 🧑‍🔬 **Zian Wang**  
-  Shanghai Jiao Tong University
-
-- 🧑‍🔬 **Shengyuan Liu**  
-  The Chinese University of Hong Kong  
-  📧 liushengyuan@link.cuhk.edu.hk
-
-- 👨‍🏫 **Lijun Lu**  
-  Southern Medical University
+  📧 qili@smu.edu.cn
 
 ---
 
 ## 📊 GitHub Stats
-![Stars](https://img.shields.io/github/stars/yezanting/Med-VLM-Bench-Summary?style=social)
-![Forks](https://img.shields.io/github/forks/yezanting/Med-VLM-Bench-Summary?style=social)
-![License](https://img.shields.io/github/license/yezanting/Med-VLM-Bench-Summary)
-![Last Commit](https://img.shields.io/github/last-commit/yezanting/Med-VLM-Bench-Summary)
+![Stars](https://img.shields.io/github/stars/CbinHu/PAID-Photoacoustic-imaging-dataset?style=social)
+![Forks](https://img.shields.io/github/forks/CbinHu/PAID-Photoacoustic-imaging-dataset?style=social)
+![License](https://img.shields.io/github/license/CbinHu/PAID-Photoacoustic-imaging-dataset)
+![Last Commit](https://img.shields.io/github/last-commit/CbinHu/PAID-Photoacoustic-imaging-dataset)
 
 ---
 
@@ -67,6 +62,15 @@ With the continuous advancement of research on Medical Vision-Language Models (M
 | Dataset Name | Paper Title | Year / Venue | Data Modality | Task Type | Size | Download Link |
 |--------------|-------------|--------------|---------------|-----------|------|---------------|
 | **MedTVT-QA** | [MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis](https://arxiv.org/pdf/2506.18512) | 2025.06.23 | Text + Time Series (ECG) + Image (CXR) + Tabular (Lab Test) | Multimodal Medical Reasoning, Multi-disease Diagnosis, Report Generation | 8,706 multimodal data combinations used to generate QA pairs | [GitHub](https://github.com/keke-nice/MedTVT-R1) |
+
+---
+---
+
+## 📊 GitHub Stats
+![Stars](https://img.shields.io/github/stars/CbinHu/PAID-Photoacoustic-imaging-dataset?style=social)
+![Forks](https://img.shields.io/github/forks/CbinHu/PAID-Photoacoustic-imaging-dataset?style=social)
+![License](https://img.shields.io/github/license/CbinHu/PAID-Photoacoustic-imaging-dataset)
+![Last Commit](https://img.shields.io/github/last-commit/CbinHu/PAID-Photoacoustic-imaging-dataset)
 
 ---
 
