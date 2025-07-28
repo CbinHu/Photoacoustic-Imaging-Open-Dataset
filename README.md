@@ -1,11 +1,11 @@
 # 📝 PAID: Photoacoustic Imaging Datasets 光声成像公开数据集
 
-📚 This repository is a continuously updated, comprehensive collection of all publicly available photoacoustic imaging datasets.
+🔖 This repository is a continuously updated, comprehensive collection of all publicly available photoacoustic imaging datasets.
 
 ---
 
 
-## 🔍 Project Overview
+## 🧾 Project Overview
 
 ### 🌟 Introduction
 
@@ -14,7 +14,7 @@ Photoacoustic imaging (PAI) is a rapidly evolving, non-invasive imaging modality
 ![Photoacoustic Imaging](images/PA.png) <br>
 Figure 1: PAT setup for noninvasive transdermal and transcranial imaging of the rat brain in vivo with the skin and skull intact. (From [Noninvasive laser-induced photoacoustic tomography for structural and functional in vivo imaging of the brain](https://www.nature.com/articles/nbt839)).
 
-### 🎯 Objectives
+### 🚀 Objectives
 
 The primary goal of the **PAID (Photoacoustic Imaging Dataset)** repository is to serve as a centralized, up-to-date, and comprehensive resource for researchers, clinicians, and students interested in PAI. This repository aims to:
 
@@ -34,14 +34,14 @@ The datasets included in this repository cover a broad spectrum of PAI technique
 
 ---
 
-## 📢 Latest Updates
+## ⏳ Latest Updates
 
 - **2025-07-28**: 🎉 Updates!
 - **2025-07-20**: 🎉 Create our GitHub project!
 
 ---
 
-## 📊 Dataset Summary Table
+## 🧮 Dataset Summary Table
 
 | Dataset Name | Paper Title | Year / Venue | Data Modality | Task Type | Size | Download Link |
 |--------------|-------------|--------------|---------------|-----------|------|---------------|
@@ -72,7 +72,7 @@ The datasets included in this repository cover a broad spectrum of PAI technique
 ---
 
 
-## 📊 GitHub Stats
+## 🚩 GitHub Stats
 ![Stars](https://img.shields.io/github/stars/CbinHu/Photoacoustic-Imaging-Open-Dataset?style=social)
 ![Forks](https://img.shields.io/github/forks/CbinHu/Photoacoustic-Imaging-Open-Dataset?style=social)
 ![License](https://img.shields.io/github/license/CbinHu/Photoacoustic-Imaging-Open-Dataset).
