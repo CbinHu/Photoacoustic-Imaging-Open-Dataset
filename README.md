@@ -97,6 +97,22 @@ We would like to thank the following individuals and organizations for their sup
 If you find this project useful, please give us a star ⭐ to support our work and help us grow the community
 
 ---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://api.star-history.com/svg?repos=CbinHu/Photoacoustic-Imaging-Open-Dataset&type=Date&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://api.star-history.com/svg?repos=CbinHu/Photoacoustic-Imaging-Open-Dataset&type=Date"
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=CbinHu/Photoacoustic-Imaging-Open-Dataset&type=Date"
+  />
+</picture>
+
 ## Citation
 If our summary is helpful to you, please quote the following papers  
 @article{zhong2024unsupervised,  
