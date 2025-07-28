@@ -1,6 +1,6 @@
 - name: Breast Cancer PAT - Twente Photoacoustic Mammoscope 2
-  title: "Open data and codes for Imaging breast malignancies with the Twente Photoacoustic Mammoscope 2"
-  year_venue: "2023.03.02"
+  title: "Imaging breast malignancies with the Twente Photoacoustic Mammoscope 2"
+  year_venue: "2023.03.06"
   modality: "Photoacoustic Imaging"
   tasks: "Breast Cancer Diagnosis, Vascular Imaging"
   size: "4 cases, each with 2 .mat files, 4-D single format"
