@@ -12,7 +12,7 @@
 Photoacoustic imaging (PAI) is a rapidly evolving, non-invasive imaging modality that combines the high contrast of optical imaging with the high spatial resolution of ultrasound imaging. It has garnered significant interest across various fields, including biomedical research, clinical diagnostics, and preclinical studies, due to its ability to provide detailed images of biological tissues and structures without the use of ionizing radiation.
 
 ![Photoacoustic Imaging](images/PA.png) <br>
-Figure 1: Noninvasive laser-induced photoacoustic tomography for structural and functional in vivo imaging of the brain. Adapted from [Noninvasive laser-induced photoacoustic tomography for structural and functional in vivo imaging of the brain](https://www.nature.com/articles/nbt839).
+Figure 1: PAT setup for noninvasive transdermal and transcranial imaging of the rat brain in vivo with the skin and skull intact. (From [Noninvasive laser-induced photoacoustic tomography for structural and functional in vivo imaging of the brain](https://www.nature.com/articles/nbt839)).
 
 ### 🎯 Objectives
 
@@ -79,4 +79,4 @@ The datasets included in this repository cover a broad spectrum of PAI technique
 
 ---
 
-> Last generated: 2025-07-28 13:56 UTC
+> Last generated: 2025-07-28 13:57 UTC
