@@ -40,7 +40,7 @@ The datasets included in this repository cover a broad spectrum of PAI technique
 
 | Dataset Name | Paper Title | Year / Venue | Data Modality | Task Type | Size | Download Link |
 |--------------|-------------|--------------|---------------|-----------|------|---------------|
-| **Breast Cancer PAT - Twente Photoacoustic Mammoscope 2** | [Open data and codes for Imaging breast malignancies with the Twente Photoacoustic Mammoscope 2](https://figshare.com/articles/dataset/Open_data_and_codes_for_Imaging_breast_malignancies_with_the_Twente_Photoacoustic_Mammoscope_2/22109687) | 2023.03.02 | Photoacoustic Imaging | Breast Cancer Diagnosis, Vascular Imaging | 4 cases, each with 2 .mat files, 4-D single format | [Download](https://figshare.com/articles/dataset/Open_data_and_codes_for_Imaging_breast_malignancies_with_the_Twente_Photoacoustic_Mammoscope_2/22109687) |
+| **Breast Cancer PAT - Twente Photoacoustic Mammoscope 2** | [Imaging breast malignancies with the Twente Photoacoustic Mammoscope 2](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281434#pone.0281434.ref011) | 2023.03.06 | Photoacoustic Imaging | Breast Cancer Diagnosis, Vascular Imaging | 4 cases, each with 2 .mat files, 4-D single format | [Download](https://figshare.com/articles/dataset/Open_data_and_codes_for_Imaging_breast_malignancies_with_the_Twente_Photoacoustic_Mammoscope_2/22109687) |
 | **Mouse PACT - Twente Photoacoustic Mammoscope 2** | [data](https://figshare.com/articles/dataset/data-mouse/9250634) | 2020.12.02 | Photoacoustic Imaging | Mouse Brain Imaging, Vascular Imaging | Phantom, Vascular Phantom, Mouse Data, Full and Sparse Reconstructions | [Download](https://figshare.com/articles/dataset/data-mouse/9250634) |
 | **Mouse MSOT - Twente Photoacoustic Mammoscope 2** | [Domain Transform Network for Photoacoustic Tomography from Limited-view and Sparsely Sampled Data](http://www.radiomics.net.cn/post/132) | 2022 | Photoacoustic Imaging | Mouse Brain Imaging, Functional Imaging | 128x128 images, enhanced to 256x256 with denoising | [Download](http://www.radiomics.net.cn/post/132) |
 | **Human Forearm Artery and Vein PACT** | [Machine learning enabled multiple illumination quantitative optoacoustic oximetry imaging in humans](https://zenodo.org/records/6466446) | 2022.02.04 | Photoacoustic Imaging | Human Forearm Imaging, Oxygenation Mapping | Raw optoacoustic signals, reconstructed images | [Download](https://zenodo.org/records/6466446) |
@@ -106,4 +106,4 @@ If you find this project useful, please give us a star ⭐ to support our work a
 
 ---
 
-> Last generated: 2025-07-28 14:52 UTC
+> Last generated: 2025-07-28 15:05 UTC
