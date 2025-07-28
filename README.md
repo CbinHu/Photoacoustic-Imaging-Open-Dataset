@@ -34,7 +34,12 @@ The datasets included in this repository cover a broad spectrum of PAI technique
 
 ---
 
+## 📢 Latest Updates
 
+- **2025-07-28**: 🎉 Updates!
+- **2025-07-20**: 🎉 Create our GitHub project!
+
+---
 
 ## 📊 Dataset Summary Table
 
@@ -65,11 +70,7 @@ The datasets included in this repository cover a broad spectrum of PAI technique
   ✉️ qili@smu.edu.cn
 
 ---
-## 📢 Latest Updates
 
-- **2025-07-20**: 🎉 Create our GitHub project!
-
----
 
 ## 📊 GitHub Stats
 ![Stars](https://img.shields.io/github/stars/CbinHu/Photoacoustic-Imaging-Open-Dataset?style=social)
