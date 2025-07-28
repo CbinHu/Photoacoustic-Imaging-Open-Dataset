@@ -114,7 +114,7 @@ If you find this project useful, please give us a star ⭐ to support our work a
   />
 </picture>
 
-## 👁 Citation
+## 🤝 Citation
 If our summary is helpful to you, please quote the following papers  
 
 @article{zhong2024unsupervised,  
