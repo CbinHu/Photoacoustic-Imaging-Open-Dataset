@@ -1,7 +1,0 @@
-- name: PAFUS-DB
-  title: "PAFUS-DB: A Photoacoustic and Ultrasound Breast Dataset"
-  year_venue: 2024.07
-  modality: "PAI + US"
-  tasks: "Reconstruction, Tumor Detection"
-  samples: "240 volumes"
-  link: "[Zenodo](https://zenodo.org/record/xxxx)"
