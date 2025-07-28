@@ -1,4 +1,4 @@
-# 📝 PAID: Photoacoustic Imaging Dataset
+# 📝 PAID: Photoacoustic Imaging Dataset 光声成像公开数据集
 
 📚 This repository is a continuously updated, comprehensive collection of all publicly available photoacoustic imaging datasets.
 
@@ -102,8 +102,12 @@ For any questions or inquiries, please contact:
 ---
 
 ## 🌟 Support Us
-If you find this project useful, please give us a star ⭐ to support our work and help us grow the community!
+If you find this project useful, please give us a star ⭐ to support our work and help us grow the community
 
 ---
 
-> Last generated: 2025-07-28 15:24 UTC
+## Citation
+
+
+
+> Last generated: 2025-07-28 15:53 UTC
