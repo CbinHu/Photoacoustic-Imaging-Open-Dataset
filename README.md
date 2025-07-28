@@ -50,6 +50,8 @@ The datasets included in this repository cover a broad spectrum of PAI technique
 | **Mouse MSOT - Twente Photoacoustic Mammoscope 2** | [Domain Transform Network for Photoacoustic Tomography from Limited-view and Sparsely Sampled Data](https://www.sciencedirect.com/science/article/pii/S2213597920300306) | 2022 | PACT | Mouse Brain Imaging, Functional Imaging | 128x128 images, enhanced to 256x256 with denoising | [Download](http://www.radiomics.net.cn/post/132) |
 | **Human Forearm Artery and Vein PACT** | [Machine learning enabled multiple illumination quantitative optoacoustic oximetry imaging in humans](https://opg.optica.org/boe/fulltext.cfm?uri=boe-13-5-2655&id=471049) | 2022.02.04 | PACT | Human Forearm Imaging, Oxygenation Mapping | Raw optoacoustic signals, reconstructed images | [Download](https://zenodo.org/records/6466446) |
 | **Breast Cancer PAT - Twente Photoacoustic Mammoscope 2** | [Imaging breast malignancies with the Twente Photoacoustic Mammoscope 2](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281434#pone.0281434.ref011) | 2023.03.06 | PACT | Breast Cancer Diagnosis, Vascular Imaging | 4 cases, each with 2 .mat files, 4-D single format | [Download](https://figshare.com/articles/dataset/Open_data_and_codes_for_Imaging_breast_malignancies_with_the_Twente_Photoacoustic_Mammoscope_2/22109687) |
+| **Duke PAM Dataset** | [Reconstructing Undersampled Photoacoustic Microscopy Images Using Deep Learning](https://pubmed.ncbi.nlm.nih.gov/33064648) | 2020.09.22 | PAM | Mouse brain microvasculature imagesg |  | [Download](https://zenodo.org/records/4042171) |
+
 ---
 
 ## 👥💻 Contributors
