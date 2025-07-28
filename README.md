@@ -61,7 +61,7 @@ The datasets included in this repository cover a broad spectrum of PAI technique
   ✉️ ytzhong.smu@qq.com
 
 - 👨‍🏫 **Li Qi**  
-  Southern Medical University
+  Southern Medical University  
   ✉️ qili@smu.edu.cn
 
 ---
