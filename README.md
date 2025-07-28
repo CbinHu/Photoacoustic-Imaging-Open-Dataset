@@ -76,7 +76,34 @@ The datasets included in this repository cover a broad spectrum of PAI technique
 ![Forks](https://img.shields.io/github/forks/CbinHu/PAID-Photoacoustic-imaging-dataset?style=social)
 ![License](https://img.shields.io/github/license/CbinHu/PAID-Photoacoustic-imaging-dataset)
 ![Last Commit](https://img.shields.io/github/last-commit/CbinHu/PAID-Photoacoustic-imaging-dataset)
+![Open Issues](https://img.shields.io/github/issues/CbinHu/PAID-Photoacoustic-imaging-dataset)
+![Closed Issues](https://img.shields.io/github/issues-closed/CbinHu/PAID-Photoacoustic-imaging-dataset)
 
 ---
 
-> Last generated: 2025-07-28 13:57 UTC
+## 🙏 Acknowledgments
+
+We would like to thank the following individuals and organizations for their support and contributions:
+
+- **SMU Intelligent Optical Tomography Lab**  
+  [Visit Website](https://smu-iotlab.github.io/)
+
+- **Institute of Medical Information, School of Biomedical Engineering, Southern Medical University**  
+  [Visit Website](https://portal.smu.edu.cn/swyxgcxy/info/1016/1115.htm)
+
+
+## 📬 Contact
+For any questions or inquiries, please contact:
+
+- **Chaobin Hu**  
+  Email: cbinhu95@gmail.com  
+  GitHub: [CbinHu](https://github.com/CbinHu)
+
+---
+
+## 🌟 Support Us
+If you find this project useful, please give us a star ⭐ to support our work and help us grow the community!
+
+---
+
+> Last generated: 2025-07-28 14:10 UTC
