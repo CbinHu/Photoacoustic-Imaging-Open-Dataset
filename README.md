@@ -58,7 +58,7 @@ The datasets included in this repository cover a broad spectrum of PAI technique
 
 - 🧑‍🎓 **Yutian Zhong**  
   Southern Medical University  
-  ✉️ 920460325@qq.com
+  ✉️ ytzhong.smu@qq.com
 
 - 👨‍🏫 **Li Qi**  
   Southern Medical University
