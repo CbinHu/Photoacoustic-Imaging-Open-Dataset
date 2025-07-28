@@ -108,8 +108,39 @@ If you find this project useful, please give us a star ⭐ to support our work a
 
 <<<<<<< HEAD
 ## Citation
+If our summary is helpful to you, please quote the following papers
+@article{zhong2024unsupervised,
+  title={Unsupervised adversarial neural network for enhancing vasculature in photoacoustic tomography images using optical coherence tomography angiography},
+  author={Zhong, Yutian and Liu, Zhenyang and Zhang, Xiaoming and Liang, Zhaoyong and Chen, Wufan and Dai, Cuixia and Qi, Li},
+  journal={Computerized Medical Imaging and Graphics},
+  volume={117},
+  pages={102425},
+  year={2024},
+  publisher={Elsevier}
+}
 
+@article{liang2025self,
+  title={Self-supervised light fluence correction network for photoacoustic tomography based on diffusion equation},
+  author={Liang, Zhaoyong and Mo, Zongxin and Zhang, Shuangyang and Chen, Long and Wang, Danni and Hu, Chaobin and Qi, Li},
+  journal={Photoacoustics},
+  volume={42},
+  pages={100684},
+  year={2025},
+  publisher={Elsevier}
+}
 
+@article{zhong2023unsupervised,
+  title={Unsupervised fusion of misaligned PAT and MRI images via mutually reinforcing cross-modality image generation and registration},
+  author={Zhong, Yutian and Zhang, Shuangyang and Liu, Zhenyang and Zhang, Xiaoming and Mo, Zongxin and Zhang, Yizhe and Hu, Haoyu and Chen, Wufan and Qi, Li},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={43},
+  number={5},
+  pages={1702--1714},
+  year={2023},
+  publisher={IEEE}
+}
+
+---
 
 > Last generated: 2025-07-28 15:53 UTC
 =======
