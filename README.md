@@ -10,8 +10,10 @@
 ### 🌟 Introduction
 
 Photoacoustic imaging (PAI) is a rapidly evolving, non-invasive imaging modality that combines the high contrast of optical imaging with the high spatial resolution of ultrasound imaging. It has garnered significant interest across various fields, including biomedical research, clinical diagnostics, and preclinical studies, due to its ability to provide detailed images of biological tissues and structures without the use of ionizing radiation.
+
 ![Photoacoustic Imaging](images/PA.png)
-*Figure 1: Noninvasive laser-induced photoacoustic tomography for structural and functional in vivo imaging of the brain. Adapted from [Noninvasive laser-induced photoacoustic tomography for structural and functional in vivo imaging of the brain](https://www.nature.com/articles/nbt839).*
+Figure 1: Noninvasive laser-induced photoacoustic tomography for structural and functional in vivo imaging of the brain. Adapted from [Noninvasive laser-induced photoacoustic tomography for structural and functional in vivo imaging of the brain](https://www.nature.com/articles/nbt839).
+
 ### 🎯 Objectives
 
 The primary goal of the **PAID (Photoacoustic Imaging Dataset)** repository is to serve as a centralized, up-to-date, and comprehensive resource for researchers, clinicians, and students interested in PAI. This repository aims to:
@@ -32,11 +34,7 @@ The datasets included in this repository cover a broad spectrum of PAI technique
 
 ---
 
-## 📢 Latest Updates
 
-- **2025-07-20**: 🎉 Create our GitHub project!
-
----
 
 ## 📊 Dataset Summary Table
 
@@ -67,6 +65,11 @@ The datasets included in this repository cover a broad spectrum of PAI technique
   ✉️ qili@smu.edu.cn
 
 ---
+## 📢 Latest Updates
+
+- **2025-07-20**: 🎉 Create our GitHub project!
+
+---
 
 ## 📊 GitHub Stats
 ![Stars](https://img.shields.io/github/stars/CbinHu/PAID-Photoacoustic-imaging-dataset?style=social)
@@ -76,4 +79,4 @@ The datasets included in this repository cover a broad spectrum of PAI technique
 
 ---
 
-> Last generated: 2025-07-28 13:50 UTC
+> Last generated: 2025-07-28 13:54 UTC
