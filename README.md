@@ -57,7 +57,7 @@ The datasets included in this repository cover a broad spectrum of PAI technique
   ✉️ cbinhu95@gmail.com
 
 - 🧑‍🎓 **Yutian Zhong**  
-  Shanghai Jiao Tong University  
+  Southern Medical University  
   ✉️ 920460325@qq.com
 
 - 👨‍🏫 **Li Qi**  
@@ -106,4 +106,4 @@ If you find this project useful, please give us a star ⭐ to support our work a
 
 ---
 
-> Last generated: 2025-07-28 14:27 UTC
+> Last generated: 2025-07-28 14:52 UTC
