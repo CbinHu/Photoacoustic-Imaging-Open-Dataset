@@ -133,15 +133,17 @@ If our summary is helpful to you, please quote the following papers
   publisher={Elsevier}  
 }  
 
-@article{liang2025self,  
-  title={Self-supervised light fluence correction network for photoacoustic tomography based on diffusion equation},  
-  author={Liang, Zhaoyong and Mo, Zongxin and Zhang, Shuangyang and Chen, Long and Wang, Danni and Hu, Chaobin and Qi, Li},  
-  journal={Photoacoustics},  
-  volume={42},  
-  pages={100684},  
-  year={2025},  
-  publisher={Elsevier}  
-}  
+@article{ZHONG2024100641,
+title = {Spiral scanning and self-supervised image reconstruction enable ultra-sparse sampling multispectral photoacoustic tomography},
+journal = {Photoacoustics},
+volume = {39},
+pages = {100641},
+year = {2024},
+issn = {2213-5979},
+doi = {https://doi.org/10.1016/j.pacs.2024.100641},
+url = {https://www.sciencedirect.com/science/article/pii/S2213597924000582},
+author = {Yutian Zhong and Xiaoming Zhang and Zongxin Mo and Shuangyang Zhang and Liming Nie and Wufan Chen and Li Qi}
+}
 
 @article{zhong2023unsupervised,  
   title={Unsupervised fusion of misaligned PAT and MRI images via mutually reinforcing cross-modality image generation and registration},  
