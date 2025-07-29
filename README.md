@@ -134,15 +134,15 @@ If our summary is helpful to you, please quote the following papers
 }  
 
 @article{ZHONG2024100641,
-title = {Spiral scanning and self-supervised image reconstruction enable ultra-sparse sampling multispectral photoacoustic tomography},
-journal = {Photoacoustics},
-volume = {39},
-pages = {100641},
-year = {2024},
-issn = {2213-5979},
-doi = {https://doi.org/10.1016/j.pacs.2024.100641},
-url = {https://www.sciencedirect.com/science/article/pii/S2213597924000582},
-author = {Yutian Zhong and Xiaoming Zhang and Zongxin Mo and Shuangyang Zhang and Liming Nie and Wufan Chen and Li Qi}
+  title = {Spiral scanning and self-supervised image reconstruction enable ultra-sparse sampling multispectral photoacoustic tomography},
+  journal = {Photoacoustics},
+  volume = {39},
+  pages = {100641},
+  year = {2024},
+  issn = {2213-5979},
+  doi = {https://doi.org/10.1016/j.pacs.2024.100641},
+  url = {https://www.sciencedirect.com/science/article/pii/S2213597924000582},
+  author = {Yutian Zhong and Xiaoming Zhang and Zongxin Mo and Shuangyang Zhang and Liming Nie and Wufan Chen and Li Qi}
 }
 
 @article{zhong2023unsupervised,  
