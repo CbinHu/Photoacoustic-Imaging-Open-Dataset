@@ -36,7 +36,8 @@ The datasets included in this repository cover a broad spectrum of PAI technique
 
 ## ⏳ Latest Updates
 
-- **2025-07-28**: 🎉 Updates!
+- **2025-08-02**: 🎉 Updates! (by Yutian Zhong)
+- **2025-07-28**: 🎉 Updates! (by Chaobin Hu)
 - **2025-07-20**: 🎉 Create our GitHub project!
 
 ---
