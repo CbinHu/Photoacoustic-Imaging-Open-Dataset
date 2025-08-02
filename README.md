@@ -137,18 +137,15 @@ If our summary is helpful to you, please quote the following papers
   publisher={Elsevier}  
 }  
 
-@article{zhong_2024_spiral,
-  author = {Zhong, Yutian and Zhang, Xiaoming and Mo, Zongxin and Zhang, Shuangyang and Nie, Liming and Chen, Wufan and Qi, Li},
-  month = {09},
-  pages = {100641},
-  publisher = {Elsevier},
-  title = {Spiral scanning and self-supervised image reconstruction enable ultra-sparse sampling multispectral photoacoustic tomography},
-  doi = {10.1016/j.pacs.2024.100641},
-  url = {https://www.sciencedirect.com/science/article/pii/S2213597924000582},
-  volume = {39},
-  year = {2024},
-  journal = {Photoacoustics}
-}
+@article{zhong_2024_spiral,  
+  title={Spiral scanning and self-supervised image reconstruction enable ultra-sparse sampling multispectral photoacoustic tomography},  
+  author={Zhong, Yutian and Zhang, Xiaoming and Mo, Zongxin and Zhang, Shuangyang and Nie, Liming and Chen, Wufan and Qi, Li},  
+  journal={Photoacoustics},  
+  volume={39},  
+  pages={100641},  
+  year={2024},  
+  publisher={Elsevier}  
+}  
 
 @article{zhong2023unsupervised,  
   title={Unsupervised fusion of misaligned PAT and MRI images via mutually reinforcing cross-modality image generation and registration},  
